@@ -1,0 +1,1 @@
+The purpose of this work is to present a novel three-dimensional computational model of RNFL bundle trajectories in COMSOL Multiphysics that can be customized using ground-truth measurements of ONH position and axial length to generate individualized retinal nerve fiber maps. 
